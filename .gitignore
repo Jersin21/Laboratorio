@@ -10,10 +10,8 @@ application/logs/*
 
 composer.lock
 
-user_guide/*
-user_guide/cilexer/build/*
-user_guide/cilexer/dist/*
-user_guide/cilexer/pycilexer.egg-info/*
+user_guide/
+
 /vendor/
 
 # IDE Files

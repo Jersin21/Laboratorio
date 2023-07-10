@@ -1,4 +1,3 @@
-# Laboratorio
 
 # Descripción del Sistema
 El objetivo principal del sistema es digitalizar y automatizar el proceso de gestión de análisis clínicos, eliminando la necesidad de realizar peticiones por escrito y agilizando el envío de resultados entre el laboratorio y los centros de salud.
@@ -51,11 +50,12 @@ El módulo implementado hasta el momento es el de Solicitud de Análisis, el cua
 
 Para instalar y configurar el sistema, siga los siguientes pasos:
 
-1. Clonar el repositorio del proyecto desde [URL del repositorio].
-2. Configurar las dependencias necesarias ejecutando el comando `npm install`.
-3. Configurar la base de datos y las credenciales de acceso correspondientes.
-4. Realizar las configuraciones adicionales necesarias según las instrucciones del archivo de configuración.
-5. Ejecutar el sistema utilizando el comando `npm start` y acceder a la URL proporcionada en el navegador.
+- Clonar el repositorio del proyecto desde [URL del repositorio].
+- Configurar las dependencias necesarias, como el framework CodeIgniter y el servidor web.
+- Configurar la base de datos MySQL y las credenciales de acceso correspondientes.
+- Importar la estructura de la base de datos desde el archivo SQL proporcionado.
+- Realizar las configuraciones adicionales necesarias según las instrucciones del archivo de configuración de CodeIgniter.
+- Ejecutar el sistema accediendo a la URL del proyecto desde un navegador web.
 
 ## Contribuciones
 
